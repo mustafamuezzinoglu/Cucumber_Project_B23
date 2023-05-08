@@ -2,12 +2,7 @@
   ## you can add more than one tags on anything
 @calculator @non-ui
 Feature: Calculator feature
-  As a
-  user,
-  I should be able
-  to use the calculator,
-  de that I can do
-  arithmetic operations.
+  As a user, I should be able to use the calculator, de that I can do arithmetic operations.
 
   ## below line is how we add tag to a feature at feature level
   #@login
